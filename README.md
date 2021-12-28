@@ -1,254 +1,508 @@
-# daily-basic-proble
- solving  daily 1 python problem and 1 weekly mini project and 1 monthly fresh idea project 
-the reason of  doing this is to inc the grasp in the programming world 
-// These were the problems we are going to solve all of them will be available 
+
+# Daily-basic-proble
+
+solving  daily 1 Python Problem And 1 Weekly Mini Project And 1 Monthly Fresh Idea Project 
+
+The Reason Of  doing This Is To Inc The Grasp In The Programming World 
+
+// These Were The Problems We Are Going To Solve All Of Them Will Be Available 
+
 Basic Programs:
-Python program to add two numbers
-Maximum of two numbers in Python
-Python Program for factorial of a number
-Python Program for simple interest
-Python Program for compound interest
-Python Program to check Armstrong Number
-Python Program for Program to find area of a circle
-Python program to print all Prime numbers in an Interval
-Python program to check whether a number is Prime or not
-Python Program for n-th Fibonacci number
-Python Program for How to check if a given number is Fibonacci number?
-Python Program for n\’th multiple of a number in Fibonacci Series
-Program to print ASCII Value of a character
-Python Program for Sum of squares of first n natural numbers
-Python Program for cube sum of first n natural numbers
-Array Programs:
-Python Program to find sum of array
-Python Program to find largest element in an array
-Python Program for array rotation
-Python Program for Reversal algorithm for array rotation
-Python Program to Split the array and add the first part to the end
-Python Program for Find reminder of array multiplication divided by n
-Python Program to check if given array is Monotonic
-List Programs:
-Python program to interchange first and last elements in a list
-Python program to swap two elements in a list
-Python | Ways to find length of list
-Python | Ways to check if element exists in list
-Different ways to clear a list in Python
-Python | Reversing a List
-Python program to find sum of elements in list
-Python | Multiply all numbers in the list
-Python program to find smallest number in a list
-Python program to find largest number in a list
-Python program to find second largest number in a list
-Python program to find N largest elements from a list
-Python program to print even numbers in a list
-Python program to print odd numbers in a List
-Python program to print all even numbers in a range
-Python program to print all odd numbers in a range
-Python program to print positive numbers in a list
-Python program to print negative numbers in a list
-Python program to print all positive numbers in a range
-Python program to print all negative numbers in a range
-Remove multiple elements from a list in Python
-Python – Remove empty List from List
-Python | Cloning or Copying a list
-Python | Count occurrences of an element in a list
-Python | Remove empty tuples from a list
-Python | Program to print duplicates from a list of integers
-Python program to find Cumulative sum of a list
-Python | Sum of number digits in List
-Break a list into chunks of size N in Python
-Python | Sort the values of first list using second list
-More >>
 
-Matrix Programs:
-Python program to add two Matrices
-Python program to multiply two matrices
-Python program for Matrix Product
-Adding and Subtracting Matrices in Python
-Transpose a matrix in Single line in Python
-Python | Matrix creation of n*n
-Python | Get Kth Column of Matrix
-Python – Vertical Concatenation in Matrix
-String Programs:
-Python program to check if a string is palindrome or not
-Python program to check whether the string is Symmetrical or Palindrome
-Reverse words in a given String in Python
-Ways to remove i’th character from string in Python
-Python | Check if a Substring is Present in a Given String
-Python – Words Frequency in String Shorthands
-Python – Convert Snake case to Pascal case
-Find length of a string in python (4 ways)
-Python program to print even length words in a string
-Python program to accept the strings which contains all vowels
-Python | Count the Number of matching characters in a pair of string
-Remove all duplicates from a given string in Python
-Python – Least Frequent Character in String
-Python | Maximum frequency character in String
-Python | Program to check if a string contains any special character
-Generating random strings until a given string is generated
-Find words which are greater than given length k
-Python program for removing i-th character from a string
-Python program to split and join a string
-Python | Check if a given string is binary string or not
-Python program to find uncommon words from two Strings
-Python – Replace duplicate Occurrence in String
-Python – Replace multiple words with K
-Python | Permutation of a given string using inbuilt function
-Python | Check for URL in a String
-Execute a String of Code in Python
-String slicing in Python to rotate a string
-String slicing in Python to check if a string can become empty by recursive deletion
-Python Counter| Find all duplicate characters in string
-Python – Replace all occurrences of a substring in a string
-More >>
+6Python Program To Add Two Numbers
 
-Dictionary Programs:
-Python – Extract Unique values dictionary values
-Python program to find the sum of all items in a dictionary
-Python | Ways to remove a key from dictionary
-Ways to sort list of dictionaries by values in Python – Using itemgetter
-Ways to sort list of dictionaries by values in Python – Using lambda function
-Python | Merging two Dictionaries
-Python – Convert key-values list to flat dictionary
-Python – Insertion at the beginning in OrderedDict
-Python | Check order of character in string using OrderedDict( )
-Dictionary and counter in Python to find winner of election
-Python – Append Dictionary Keys and Values ( In order ) in dictionary
-Python | Sort Python Dictionaries by Key or Value
-Python – Sort Dictionary key and values List
-Handling missing keys in Python dictionaries
-Python dictionary with keys having multiple inputs
-Print anagrams together in Python using List and Dictionary
-K’th Non-repeating Character in Python using List Comprehension and OrderedDict
-Check if binary representations of two numbers are anagram
-Python Counter to find the size of largest subset of anagram words
-Python | Remove all duplicates words from a given sentence
-Python Dictionary to find mirror characters in a string
-Counting the frequencies in a list using dictionary in Python
-Python | Convert a list of Tuples into Dictionary
-Python counter and dictionary intersection example (Make a string using deletion and rearrangement)
-Python dictionary, set and counter to check if frequencies can become same
-Scraping And Finding Ordered Words In A Dictionary using Python
-Possible Words using given characters in Python
-Python – Keys associated with Values in Dictionary
-More >>
-Tuple Programs:
-Python program to Find the size of a Tuple
-Python – Maximum and Minimum K elements in Tuple
-Create a list of tuples from given list having number and its cube in each tuple
-Python – Adding Tuple to List and vice – versa
-Python – Closest Pair to Kth index element in Tuple
-Python – Join Tuples if similar initial element
-Python – Extract digits from Tuple list
-Python – All pair combinations of 2 tuples
-Python – Remove Tuples of Length K
-Sort a list of tuples by second Item
-Python program to Order Tuples using external List
-Python – Flatten tuple of List to tuple
-Python – Convert Nested Tuple to Custom Key Dictionary
-More >>
+7Maximum Of Two Numbers In Python
 
-Searching and Sorting Programs:
-Python Program for Binary Search (Recursive and Iterative)
-Python Program for Linear Search
-Python Program for Insertion Sort
-Python Program for Recursive Insertion Sort
-Python Program for QuickSort
-Python Program for Iterative Quick Sort
-Python Program for Selection Sort
-Python Program for Bubble Sort
-Python Program for Merge Sort
-Python Program for Iterative Merge Sort
-Python Program for Heap Sort
-Python Program for Counting Sort
-Python Program for ShellSort
-Python Program for Topological Sorting
-Python Program for Radix Sort
-Python Program for Binary Insertion Sort
-Python Program for Bitonic Sort
-Python Program for Comb Sort
-Python Program for Pigeonhole Sort
-Python Program for Cocktail Sort
-Python Program for Gnome Sort
-Python Program for Odd-Even Sort / Brick Sort
-Python Program for BogoSort or Permutation Sort
-Python Program for Cycle Sort
-Python Program for Stooge Sort
-Pattern Printing Programs:
-Python Program to print the pattern ‘G’
-Python Program to print an Inverted Star Pattern
-Python Program to print double sided stair-case pattern
-Python Program to print with your own font
-Date-Time Programs:
-Python program to get Current Time
-Get Current Date and Time using Python
-Python | Find yesterday’s, today’s and tomorrow’s date
-Python program to convert time from 12 hour to 24 hour format
-Python program to find difference between current time and given time
-Python Program to Create a Lap Timer
-Convert date string to timestamp in Python
-How to convert timestamp string to datetime object in Python?
-Find number of times every day occurs in a Year
-Python Regex Programs:
-Python Program to Check if String Contain Only Defined Characters using Regex
-Python program to Count Uppercase, Lowercase, special character and numeric values using Regex
-Python Program to find the most occurring number in a string using Regex
-Python Regex to extract maximum numeric value from a string
-Python Program to put spaces between words starting with capital letters using Regex
-Python – Check whether a string starts and ends with the same character or not
-Python regex to find sequences of one upper case letter followed by lower case letters
-Python Program to Remove duplicate words from Sentence
-Python | Remove all characters except letters and numbers
-Python Regex | Program to accept string ending with alphanumeric character
-Python Regex – Program to accept string starting with vowel
-Python Program to check if a string starts with a substring using regex
-Python Program to Check if an URL is valid or not using Regular Expression
-Parsing and Processing URL using Python – Regex
-Python Program to validate an IP address using ReGex
-Python Program to Check if email address valid or not
-Python program to find files having a particular extension using RegEx
-Python program to extract IP address from file
-Python program to check the validity of a Password
-Categorize Password as Strong or Weak using Regex in Python
-Python File Handling Programs:
-Python program to read file word by word
-Python program to read character by character from a file
-Python – Get number of characters, words, spaces and lines in a file
-Python program to Count the Number of occurrences of a key-value pair in a text file
-Python | Finding ‘n’ Character Words in a Text File
-Python Program to obtain the line number in which given word is present
-Count number of lines in a text file in Python
-Python Program to remove lines starting with any prefix
-Python Program to Eliminate repeated lines from a file
-Python Program to read List of Dictionaries from File
-Python – Append content of one text file to another
-Python program to copy odd lines of one file to other
-Python Program to merge two files into a third file
-Python program to Reverse a single line of a text file
-Python program to reverse the content of a file and store it in another file
-Python Program to Reverse the Content of a File using Stack
-More Python Programs:
-Python Program to Reverse a linked list
-Python Program for Find largest prime factor of a number
-Python Program for Efficient program to print all prime factors of a given number
-Python Program for Product of unique prime factors of a number
-Python Program for Find sum of odd factors of a number
-Python Program for Coin Change
-Python Program for Tower of Hanoi
-Python Program for Sieve of Eratosthenes
-Python Program to Check if binary representation is palindrome
-Python Program for Basic Euclidean algorithms
-Python Program for Extended Euclidean algorithms
-Python Program for Maximum height when coins are arranged in a triangle
-Python Program for Find minimum sum of factors of number
-Python Program for Difference between sums of odd and even digits
-Python Program for Program to Print Matrix in Z form
-Python Program for Smallest K digit number divisible by X
-Python Program for Print Number series without using any loop
-Python Program for Number of stopping station problem
-Check if a triangle of positive area is possible with the given angles
-Python program to find the most occurring character and its count
-Python Program for Find sum of even factors of a number
-Python Program for Check if all digits of a number divide it
-Check whether a number has consecutive 0’s in the given base or not
-Python Program for Number of solutions to Modular Equations
-Python Program for Legendre\’s Conjecture
+8Python Program For Factorial Of A Number
+
+9Python Program For Simple Interest
+
+10Python Program For Compound Interest
+
+11Python Program To Check Armstrong Number
+
+12Python Program For Program To Find Area Of A Circle
+
+13Python Program To Print All Prime Numbers In An Interval
+
+14Python Program To Check Whether A Number Is Prime Or Not
+
+15Python Program For N-th Fibonacci Number
+
+16Python Program For How To Check If A Given Number Is Fibonacci Number? 
+
+17Python Program For N\’th Multiple Of A Number In Fibonacci Series
+
+18Program To Print Ascii Value Of A Character
+
+19Python Program For Sum Of Squares Of First N Natural Numbers
+
+20Python Program For Cube Sum Of First N Natural Numbers
+
+21Array Programs:
+
+22Python Program To Find Sum Of Array
+
+23Python Program To Find Largest Element In An Array
+
+24Python Program For Array Rotation
+
+25Python Program For Reversal Algorithm For Array Rotation
+
+26Python Program To Split The Array And Add The First Part To The End
+
+27Python Program For Find Reminder Of Array Multiplication Divided By N
+
+28Python Program To Check If Given Array Is Monotonic
+
+29List Programs:
+
+30Python Program To Interchange First And Last Elements In A List
+
+31Python Program To Swap Two Elements In A List
+
+32Python | Ways To Find Length Of List
+
+33Python | Ways To Check If Element Exists In List
+
+34Different Ways To Clear A List In Python
+
+35Python | Reversing A List
+
+36Python Program To Find Sum Of Elements In List
+
+37Python | Multiply All Numbers In The List
+
+38Python Program To Find Smallest Number In A List
+
+39Python Program To Find Largest Number In A List
+
+40Python Program To Find Second Largest Number In A List
+
+41Python Program To Find N Largest Elements From A List
+
+42Python Program To Print Even Numbers In A List
+
+43Python Program To Print Odd Numbers In A List
+
+44Python Program To Print All Even Numbers In A Range
+
+45Python Program To Print All Odd Numbers In A Range
+
+46Python Program To Print Positive Numbers In A List
+
+47Python Program To Print Negative Numbers In A List
+
+48Python Program To Print All Positive Numbers In A Range
+
+49Python Program To Print All Negative Numbers In A Range
+
+50Remove Multiple Elements From A List In Python
+
+51Python – Remove Empty List From List
+
+52Python | Cloning Or Copying A List
+
+53Python | Count Occurrences Of An Element In A List
+
+54Python | Remove Empty Tuples From A List
+
+55Python | Program To Print Duplicates From A List Of Integers
+
+56Python Program To Find Cumulative Sum Of A List
+
+57Python | Sum Of Number Digits In List
+
+58Break A List Into Chunks Of Size N In Python
+
+59Python | Sort The Values Of First List Using Second List
+
+60More >>
+
+61
+
+62Matrix Programs:
+
+63Python Program To Add Two Matrices
+
+64Python Program To Multiply Two Matrices
+
+65Python Program For Matrix Product
+
+66Adding And Subtracting Matrices In Python
+
+67Transpose A Matrix In Single Line In Python
+
+68Python | Matrix Creation Of N*n
+
+69Python | Get Kth Column Of Matrix
+
+70Python – Vertical Concatenation In Matrix
+
+71String Programs:
+
+72Python Program To Check If A String Is Palindrome Or Not
+
+73Python Program To Check Whether The String Is Symmetrical Or Palindrome
+
+74Reverse Words In A Given String In Python
+
+75Ways To Remove I’th Character From String In Python
+
+76Python | Check If A Substring Is Present In A Given String
+
+77Python – Words Frequency In String Shorthands
+
+78Python – Convert Snake Case To Pascal Case
+
+79Find Length Of A String In Python (4 Ways)
+
+80Python Program To Print Even Length Words In A String
+
+81Python Program To Accept The Strings Which Contains All Vowels
+
+82Python | Count The Number Of Matching Characters In A Pair Of String
+
+83Remove All Duplicates From A Given String In Python
+
+84Python – Least Frequent Character In String
+
+85Python | Maximum Frequency Character In String
+
+86Python | Program To Check If A String Contains Any Special Character
+
+87Generating Random Strings Until A Given String Is Generated
+
+88Find Words Which Are Greater Than Given Length K
+
+89Python Program For Removing I-th Character From A String
+
+90Python Program To Split And Join A String
+
+91Python | Check If A Given String Is Binary String Or Not
+
+92Python Program To Find Uncommon Words From Two Strings
+
+93Python – Replace Duplicate Occurrence In String
+
+94Python – Replace Multiple Words With K
+
+95Python | Permutation Of A Given String Using Inbuilt Function
+
+96Python | Check For Url In A String
+
+97Execute A String Of Code In Python
+
+98String Slicing In Python To Rotate A String
+
+99String Slicing In Python To Check If A String Can Become Empty By Recursive Deletion
+
+100Python Counter| Find All Duplicate Characters In String
+
+101Python – Replace All Occurrences Of A Substring In A String
+
+102More >>
+
+103
+
+104Dictionary Programs:
+
+105Python – Extract Unique Values Dictionary Values
+
+106Python Program To Find The Sum Of All Items In A Dictionary
+
+107Python | Ways To Remove A Key From Dictionary
+
+108Ways To Sort List Of Dictionaries By Values In Python – Using Itemgetter
+
+109Ways To Sort List Of Dictionaries By Values In Python – Using Lambda Function
+
+110Python | Merging Two Dictionaries
+
+111Python – Convert Key-values List To Flat Dictionary
+
+112Python – Insertion At The Beginning In Ordereddict
+
+113Python | Check Order Of Character In String Using Ordereddict( )
+
+114Dictionary And Counter In Python To Find Winner Of Election
+
+115Python – Append Dictionary Keys And Values ( In Order ) In Dictionary
+
+116Python | Sort Python Dictionaries By Key Or Value
+
+117Python – Sort Dictionary Key And Values List
+
+118Handling Missing Keys In Python Dictionaries
+
+119Python Dictionary With Keys Having Multiple Inputs
+
+120Print Anagrams Together In Python Using List And Dictionary
+
+121K’th Non-repeating Character In Python Using List Comprehension And Ordereddict
+
+122Check If Binary Representations Of Two Numbers Are Anagram
+
+123Python Counter To Find The Size Of Largest Subset Of Anagram Words
+
+124Python | Remove All Duplicates Words From A Given Sentence
+
+125Python Dictionary To Find Mirror Characters In A String
+
+126Counting The Frequencies In A List Using Dictionary In Python
+
+127Python | Convert A List Of Tuples Into Dictionary
+
+128Python Counter And Dictionary Intersection Example (make A String Using Deletion And Rearrangement)
+
+129Python Dictionary, Set And Counter To Check If Frequencies Can Become Same
+
+130Scraping And Finding Ordered Words In A Dictionary Using Python
+
+131Possible Words Using Given Characters In Python
+
+132Python – Keys Associated With Values In Dictionary
+
+133More >>
+
+134Tuple Programs:
+
+135Python Program To Find The Size Of A Tuple
+
+136Python – Maximum And Minimum K Elements In Tuple
+
+137Create A List Of Tuples From Given List Having Number And Its Cube In Each Tuple
+
+138Python – Adding Tuple To List And Vice – Versa
+
+139Python – Closest Pair To Kth Index Element In Tuple
+
+140Python – Join Tuples If Similar Initial Element
+
+141Python – Extract Digits From Tuple List
+
+142Python – All Pair Combinations Of 2 Tuples
+
+143Python – Remove Tuples Of Length K
+
+144Sort A List Of Tuples By Second Item
+
+145Python Program To Order Tuples Using External List
+
+146Python – Flatten Tuple Of List To Tuple
+
+147Python – Convert Nested Tuple To Custom Key Dictionary
+
+148More >>
+
+149
+
+150Searching And Sorting Programs:
+
+151Python Program For Binary Search (recursive And Iterative)
+
+152Python Program For Linear Search
+
+153Python Program For Insertion Sort
+
+154Python Program For Recursive Insertion Sort
+
+155Python Program For Quicksort
+
+156Python Program For Iterative Quick Sort
+
+157Python Program For Selection Sort
+
+158Python Program For Bubble Sort
+
+159Python Program For Merge Sort
+
+160Python Program For Iterative Merge Sort
+
+161Python Program For Heap Sort
+
+162Python Program For Counting Sort
+
+163Python Program For Shellsort
+
+164Python Program For Topological Sorting
+
+165Python Program For Radix Sort
+
+166Python Program For Binary Insertion Sort
+
+167Python Program For Bitonic Sort
+
+168Python Program For Comb Sort
+
+169Python Program For Pigeonhole Sort
+
+170Python Program For Cocktail Sort
+
+171Python Program For Gnome Sort
+
+172Python Program For Odd-even Sort / Brick Sort
+
+173Python Program For Bogosort Or Permutation Sort
+
+174Python Program For Cycle Sort
+
+175Python Program For Stooge Sort
+
+176Pattern Printing Programs:
+
+177Python Program To Print The Pattern ‘g’
+
+178Python Program To Print An Inverted Star Pattern
+
+179Python Program To Print Double Sided Stair-case Pattern
+
+180Python Program To Print With Your Own Font
+
+181Date-time Programs:
+
+182Python Program To Get Current Time
+
+183Get Current Date And Time Using Python
+
+184Python | Find Yesterday’s, Today’s And Tomorrow’s Date
+
+185Python Program To Convert Time From 12 Hour To 24 Hour Format
+
+186Python Program To Find Difference Between Current Time And Given Time
+
+187Python Program To Create A Lap Timer
+
+188Convert Date String To Timestamp In Python
+
+189How To Convert Timestamp String To Datetime Object In Python? 
+
+190Find Number Of Times Every Day Occurs In A Year
+
+191Python Regex Programs:
+
+192Python Program To Check If String Contain Only Defined Characters Using Regex
+
+193Python Program To Count Uppercase, Lowercase, Special Character And Numeric Values Using Regex
+
+194Python Program To Find The Most Occurring Number In A String Using Regex
+
+195Python Regex To Extract Maximum Numeric Value From A String
+
+196Python Program To Put Spaces Between Words Starting With Capital Letters Using Regex
+
+197Python – Check Whether A String Starts And Ends With The Same Character Or Not
+
+198Python Regex To Find Sequences Of One Upper Case Letter Followed By Lower Case Letters
+
+199Python Program To Remove Duplicate Words From Sentence
+
+200Python | Remove All Characters Except Letters And Numbers
+
+201Python Regex | Program To Accept String Ending With Alphanumeric Character
+
+202Python Regex – Program To Accept String Starting With Vowel
+
+203Python Program To Check If A String Starts With A Substring Using Regex
+
+204Python Program To Check If An Url Is Valid Or Not Using Regular Expression
+
+205Parsing And Processing Url Using Python – Regex
+
+206Python Program To Validate An Ip Address Using Regex
+
+207Python Program To Check If Email Address Valid Or Not
+
+208Python Program To Find Files Having A Particular Extension Using Regex
+
+209Python Program To Extract Ip Address From File
+
+210Python Program To Check The Validity Of A Password
+
+211Categorize Password As Strong Or Weak Using Regex In Python
+
+212Python File Handling Programs:
+
+213Python Program To Read File Word By Word
+
+214Python Program To Read Character By Character From A File
+
+215Python – Get Number Of Characters, Words, Spaces And Lines In A File
+
+216Python Program To Count The Number Of Occurrences Of A Key-value Pair In A Text File
+
+217Python | Finding ‘n’ Character Words In A Text File
+
+218Python Program To Obtain The Line Number In Which Given Word Is Present
+
+219Count Number Of Lines In A Text File In Python
+
+220Python Program To Remove Lines Starting With Any Prefix
+
+221Python Program To Eliminate Repeated Lines From A File
+
+222Python Program To Read List Of Dictionaries From File
+
+223Python – Append Content Of One Text File To Another
+
+224Python Program To Copy Odd Lines Of One File To Other
+
+225Python Program To Merge Two Files Into A Third File
+
+226Python Program To Reverse A Single Line Of A Text File
+
+227Python Program To Reverse The Content Of A File And Store It In Another File
+
+228Python Program To Reverse The Content Of A File Using Stack
+
+229More Python Programs:
+
+230Python Program To Reverse A Linked List
+
+231Python Program For Find Largest Prime Factor Of A Number
+
+232Python Program For Efficient Program To Print All Prime Factors Of A Given Number
+
+233Python Program For Product Of Unique Prime Factors Of A Number
+
+234Python Program For Find Sum Of Odd Factors Of A Number
+
+235Python Program For Coin Change
+
+236Python Program For Tower Of Hanoi
+
+237Python Program For Sieve Of Eratosthenes
+
+238Python Program To Check If Binary Representation Is Palindrome
+
+239Python Program For Basic Euclidean Algorithms
+
+240Python Program For Extended Euclidean Algorithms
+
+241Python Program For Maximum Height When Coins Are Arranged In A Triangle
+
+242Python Program For Find Minimum Sum Of Factors Of Number
+
+243Python Program For Difference Between Sums Of Odd And Even Digits
+
+244Python Program For Program To Print Matrix In Z Form
+
+245Python Program For Smallest K Digit Number Divisible By X
+
+246Python Program For Print Number Series Without Using Any Loop
+
+247Python Program For Number Of Stopping Station Problem
+
+248Check If A Triangle Of Positive Area Is Possible With The Given Angles
+
+249Python Program To Find The Most Occurring Character And Its Count
+
+250Python Program For Find Sum Of Even Factors Of A Number
+
+251Python Program For Check If All Digits Of A Number Divide It
+
+252Check Whether A Number Has Consecutive 0’s In The Given Base Or Not
+
+253Python Program For Number Of Solutions To Modular Equations
+
+254Python Program For Legendre\’s Conjecture
